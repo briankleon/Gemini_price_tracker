@@ -1,0 +1,8 @@
+# Exclude the archive folder
+archive/
+
+# Exclude secrets folder
+secrets/
+
+# Exclude .env file
+.env
